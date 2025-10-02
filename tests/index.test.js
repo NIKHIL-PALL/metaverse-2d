@@ -1,4 +1,4 @@
-import axios from 'axios';
+const axios = require('axios');
 const BACKEND_URL = 'http://localhost:3000';
 
 describe('Sample Test Suite', () => {
